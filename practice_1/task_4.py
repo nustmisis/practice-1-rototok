@@ -8,7 +8,6 @@
 """
 
 sum = 0
-
 try:
     number = int(input())
 
