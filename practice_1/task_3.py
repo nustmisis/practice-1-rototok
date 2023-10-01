@@ -18,5 +18,6 @@ try:
     BMI = weight/(height**2)
 
     print("Индекс массы тела при весе в {0} кг и росте в {1} см равен {2:.2f}".format(weight,height,BMI))
+    
 except:
     print("Необходимо вводить числа")
